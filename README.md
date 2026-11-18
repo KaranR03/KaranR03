@@ -2,7 +2,7 @@
 
 <p align="center">
   Master of Information Technology student at <b>QUT</b>, based in Australia.<br>
-  I build full-stack apps, applied machine learning, and hackathon prototypes that touch real hardware.
+  I build full-stack apps, applied AI and Machine learning prototypes that touch real hardware.
 </p>
 
 <p align="center">
