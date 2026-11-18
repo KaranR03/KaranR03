@@ -24,7 +24,7 @@
 | [**SpeedQ**](https://github.com/KaranR03/SpeedQ) | Team Astars' entry for the Westpac Hackathon. An AI voice and chat agent (Clario) writes up a customer's problem once, a scoring engine ranks every case by how fast harm grows, and officers work a live queue. Scam victims are seen first. | Python, FastAPI, SQLite, Retell, JavaScript |
 | [**Pathly**](https://github.com/KaranR03/Pathly) | An interactive map of Australian jobs that shows how your skills match each role, and what to learn to unlock more of them. | TypeScript, React, Supabase |
 | [**LifeTrace**](https://github.com/KaranR03/LifeTrace) | Brains & Bots Hackathon 2026. An autonomous disaster-response rover that triages casualties by urgency and drops physical markers for responders. | Python, ESP32, Raspberry Pi |
-| [**Waste Record Management System**](https://github.com/KaranR03/app_IFN636) | Full-stack CRUD app for waste collection records, with GitHub Actions CI/CD and AWS EC2 deployment. | React, Node.js, Express, MongoDB |
+| [**Waste Record Management System**](https://github.com/KaranR03/Waste-Record-Management-System) | Full-stack CRUD app for waste collection records, with GitHub Actions CI/CD and AWS EC2 deployment. | React, Node.js, Express, MongoDB |
 | [**Movie-Rec**](https://github.com/KaranR03/Movie-Rec) | Content-based movie recommender using cosine similarity on the TMDB dataset. | Python, Jupyter |
 | [**AdvancedMachineLearning**](https://github.com/KaranR03/AdvancedMachineLearning) | Coursework: eight machine learning assignments as Jupyter notebooks. | Python, Jupyter |
 
