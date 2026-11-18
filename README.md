@@ -31,3 +31,5 @@
 ## Find me
 
 [![GitHub](https://img.shields.io/badge/GitHub-KaranR03-181717?style=flat-square&logo=github)](https://github.com/KaranR03)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-krooprai2003-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krooprai2003)
+[![Email](https://img.shields.io/badge/Email-karanrooprai03%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:karanrooprai03@gmail.com)
